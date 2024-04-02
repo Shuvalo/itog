@@ -117,7 +117,7 @@ header {
     </div>
     <div class="movie" id="movie">
         <div class="movie-info" id="MovieInfoDiv">
-            <img src="/src/lib/images/lyl.jpg" alt="">
+            <img src="https://signalmedia.ru/b/c/14459.jpg" alt="">
             <h3 id="MovieTitle">Лулу и Бриггс <span class="green">8.4</span></h3>
         </div>
         <div class="overview">
@@ -127,7 +127,7 @@ header {
     </div>
     <div class="movie" id="movie">
         <div class="movie-info" id="MovieInfoDiv">
-            <img src="/src/lib/images/dom.jpg" alt="">
+            <img src="https://u.livelib.ru/reader/YuliyaSalikova/o/7s740aef/o-o.jpeg" alt="">
             <h3 id="MovieTitle">Дом странных детей Мисс Перегрин <span class="green">7.8</span></h3>
         </div>
         <div class="overview">
@@ -137,7 +137,7 @@ header {
     </div>
     <div class="movie" id="movie">
         <div class="movie-info" id="MovieInfoDiv">
-            <img src="/src/lib/images/led.jpg" alt="">
+            <img src="https://cdn-m.sport24.ru/m/d387/593b/4455/4e1c/befd/6025/456e/0d06/1600_10000_max.jpeg" alt="">
             <h3 id="MovieTitle">Лед 3<span class="green">5.9</span></h3>
         </div>
         <div class="overview">
@@ -147,7 +147,7 @@ header {
     </div>
     <div class="movie" id="movie">
         <div class="movie-info" id="MovieInfoDiv">
-            <img src="/src/lib/images/do vstrechi.jpg" alt="">
+            <img src="https://pic.rutubelist.ru/video/ab/7d/ab7d85e0892c344fbdbbbace0b5ca14d.jpg" alt="">
             <h3 id="MovieTitle">До встречи с тобой<span class="green">8.7</span></h3>
         </div>
         <div class="overview">
@@ -157,7 +157,7 @@ header {
     </div>
     <div class="movie" id="movie">
         <div class="movie-info" id="MovieInfoDiv">
-            <img src="/src/lib/images/matriz.jpg" alt="">
+            <img src="https://w.forfun.com/fetch/3a/3afdb5a847c5897396ab73b8ae2c780a.jpeg" alt="">
             <h3 id="MovieTitle">Матрица времени<span class="green">6.7</span></h3>
         </div>
         <div class="overview">
@@ -167,7 +167,7 @@ header {
     </div>
     <div class="movie" id="movie">
         <div class="movie-info" id="MovieInfoDiv">
-            <img src="/src/lib/images/mast.png" alt="">
+            <img src="https://www.megacritic.ru/top/wp-content/uploads/2024/01/master-i-margarita.png" alt="">
             <h3 id="MovieTitle">Мастер и Маргарита <span class="green">9.0</span></h3>
         </div>
         <div class="overview">
@@ -177,7 +177,7 @@ header {
     </div>
     <div class="movie" id="movie">
         <div class="movie-info" id="MovieInfoDiv">
-            <img src="/src/lib/images/mstiteli.jpg" alt="">
+            <img src="https://www.rappler.com/tachyon/r3-assets/612F469A6EA84F6BAE882D2B94A4B421/img/ED41B6343CDE405C8E7E36519C2B044C/resizedphoto-4.jpg" alt="">
             <h3 id="MovieTitle">Мстители. Финал <span class="green">6.9</span></h3>
         </div>
         <div class="overview">
@@ -187,7 +187,7 @@ header {
     </div>
     <div class="movie" id="movie">
         <div class="movie-info" id="MovieInfoDiv">
-            <img src="/src/lib/images/kry'l.jfif" alt="">
+            <img src="https://m.media-amazon.com/images/M/MV5BYzRmM2M1MjItZGZkZi00ZWI3LWFjNjgtNDcxNDNmYmEzYWI3XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_FMjpg_UX1000_.jpg" alt="">
             <h3 id="MovieTitle">Круэлла <span class="green">7.8</span></h3>
         </div>
         <div class="overview">
