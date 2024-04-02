@@ -106,7 +106,7 @@ header {
  
     <div class="movie" id="movie">
         <div class="movie-info" id="MovieInfoDiv">
-            <img src="/src/lib/images/legend.jpg" alt="">
+            <img src="https://w.forfun.com/fetch/5d/5dfb102df079c1780a4675cbdfb4162c.jpeg" alt="">
             <h3 id="MovieTitle">Легенда
             <span class="green">9.8</span></h3>
         </div>
