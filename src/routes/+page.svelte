@@ -106,7 +106,7 @@ header {
  
     <div class="movie" id="movie">
         <div class="movie-info" id="MovieInfoDiv">
-            <img src="https://w.forfun.com/fetch/5d/5dfb102df079c1780a4675cbdfb4162c.jpeg" alt="">
+            <img src="https://celes.club/uploads/posts/2022-11/1667358039_12-celes-club-p-tom-khardi-legenda-oboi-pinterest-14.jpg" alt="">
             <h3 id="MovieTitle">Легенда
             <span class="green">9.8</span></h3>
         </div>
@@ -157,7 +157,7 @@ header {
     </div>
     <div class="movie" id="movie">
         <div class="movie-info" id="MovieInfoDiv">
-            <img src="https://w.forfun.com/fetch/3a/3afdb5a847c5897396ab73b8ae2c780a.jpeg" alt="">
+            <img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/2a835db8-21eb-497f-9263-7dcebe1e28e6/1920x" alt="">
             <h3 id="MovieTitle">Матрица времени<span class="green">6.7</span></h3>
         </div>
         <div class="overview">
