@@ -157,7 +157,7 @@ header {
     </div>
     <div class="movie" id="movie">
         <div class="movie-info" id="MovieInfoDiv">
-            <img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/2a835db8-21eb-497f-9263-7dcebe1e28e6/1920x" alt="">
+            <img src="https://images.moviesanywhere.com/b3a6350bb164f2a366fa653b9bd14388/0ecb8a33-15bf-4319-9b21-077f0b9f5409.jpg?w=2560&r=16x9" alt="">
             <h3 id="MovieTitle">Матрица времени<span class="green">6.7</span></h3>
         </div>
         <div class="overview">
